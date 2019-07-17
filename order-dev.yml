@@ -1,0 +1,6 @@
+datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    #url: jdbc:mysql://192.168.6.5/sell?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://192.168.80.106/sell?characterEncoding=utf-8&useSSL=false
